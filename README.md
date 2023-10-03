@@ -1,6 +1,13 @@
 # machine-learning-to-find-liver-disease
 
+
+![Screenshot (133)](https://github.com/Hari-durai/machine-learning-to-find-liver-disease/assets/91016875/cd229210-f787-44a4-94e7-aae15fa84f71)
+
+![Screenshot (134)](https://github.com/Hari-durai/machine-learning-to-find-liver-disease/assets/91016875/4c41be79-f320-4a11-9b93-302f1827e17c)
+
+
 # Liver Disease Detection Using Machine Learning and Flask
+
 
 ## Introduction
 
