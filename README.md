@@ -68,9 +68,7 @@ Follow these steps to set up and run the liver disease detection system:
 4. Click the "Predict" button.
 5. The application will use the trained machine learning model to make a prediction and display the result on the webpage.
 
-## Contributors
 
-- [Your Name](https://github.com/yourusername)
 
 ## License
 
