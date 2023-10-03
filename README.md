@@ -1,5 +1,4 @@
 # machine-learning-to-find-liver-disease
-Creating a machine learning-based liver disease detection system using Flask involves several steps. Below is a sample README file outlining the steps and providing information on how to set up and use such a system:
 
 # Liver Disease Detection Using Machine Learning and Flask
 
